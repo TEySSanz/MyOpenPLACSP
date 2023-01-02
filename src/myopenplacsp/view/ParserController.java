@@ -764,14 +764,17 @@ public class ParserController implements Initializable {
                     new CheckBoxTreeItem<>("NIF OC"),
                     new CheckBoxTreeItem<>("DIR3"),
                     new CheckBoxTreeItem<>("Enlace al Perfil de Contratante del OC"),
+                    new CheckBoxTreeItem<>("Tipo de Administración"),
+                    new CheckBoxTreeItem<>("Código Postal"),
                     new CheckBoxTreeItem<>("Tipo de procedimiento"),
                     new CheckBoxTreeItem<>("Sistema de contratación"),
                     new CheckBoxTreeItem<>("Tramitación"),
                     new CheckBoxTreeItem<>("Forma de presentación de la oferta"),
                     new CheckBoxTreeItem<>("Fecha de presentación de ofertas"),
                     new CheckBoxTreeItem<>("Fecha de presentación de solicitudes de participacion"),
-                    new CheckBoxTreeItem<>("Directiva de la aplicación"),
+                    new CheckBoxTreeItem<>("Directiva de aplicación"),
                     new CheckBoxTreeItem<>("Financiación Europea y fuente"),
+                    new CheckBoxTreeItem<>("Descripción de la financiación europea"),
                     new CheckBoxTreeItem<>("Subcontratación permitida"),
                     new CheckBoxTreeItem<>("Subcontratación permitida porcentaje"));
             //Elementos / columnas de "Datos de Resultados"
